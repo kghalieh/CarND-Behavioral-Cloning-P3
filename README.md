@@ -125,7 +125,7 @@ The model implementations can be found in _[model.py Lines:108- 125]_
 The used model does not include any dropout layers since it did will and not overfit. other used method to avoid overfitting include data augmentation to produce 8 images for each record in the driving log _[model.py lines:52-98]_ and data shuffling. 
 
 #### 4. Training data
-Data collection using the simulator included going around the track in both directions for multiple rounds then adding recovery data to help the model in deal with cases like:
+Data collection using the simulator included going around the track in both directions for multiple rounds then adding recovery data to help the model in dealing with cases like:
 - Too close to the edge.
 - No curb side.
 - get away from bridge corners.
