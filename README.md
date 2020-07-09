@@ -6,7 +6,7 @@
 ---
 This repository contains my solution for the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.
 
-The goal of this project is to build and train a neural network that can clone driving behavior. The network is implemented using Keras and trained and validated on data created by Udacity simulator. The simulator enables you to steer a car around  can steer a car around a track for data collection. The data of interest in our case are the images taken by the center camera in the simulated car and its steering angle. 
+The goal of this project is to build and train a neural network that can clone driving behavior. The network is implemented using Keras and trained and validated on data created by Udacity simulator. The simulator enables you to steer a car around a track for data collection. The data of interest in our case are the images taken by the center camera in the simulated car and its steering angle. 
 
 
 The project will have five main files: 
